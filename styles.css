@@ -90,20 +90,3 @@ body {
 }
 
 
-/*
-.row {
-    display: flex;
-    justify-content: space-between;
-    height: 100%;
-}
-
-.cell {
-    height: calc(100%/8);
-    width: calc(100%/8);;
-    background-color: white;
-    border: 1px solid #000000;
-    box-sizing: border-box;
-}
-*/
-
-
