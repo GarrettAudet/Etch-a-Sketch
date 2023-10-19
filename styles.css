@@ -81,6 +81,12 @@ body {
 .row {
     background-color: white;
     border: 1px solid #000000;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.row:hover {
+    background-color: silver;
 }
 
 
